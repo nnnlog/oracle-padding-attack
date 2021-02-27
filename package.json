@@ -1,0 +1,15 @@
+{
+  "name": "oracle-padding-attack",
+  "version": "1.0.0",
+  "description": "Oracle Padding Attacker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "nlog",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
